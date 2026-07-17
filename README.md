@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Backtracking
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Tree
 |  |
