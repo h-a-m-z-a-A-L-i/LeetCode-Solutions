@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0018-4sum) |
 ## Two Pointers
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
