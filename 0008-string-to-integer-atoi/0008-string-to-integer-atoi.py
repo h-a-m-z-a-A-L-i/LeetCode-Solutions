@@ -1,34 +1,35 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
         i = 0
-        ls = []
+        n = len(s)
         sign = 1
-        # 1. Skip all spaces first
-        while i < len(s) and s[i] == " ":
+        num = 0
+
+        # 1. Skip leading whitespace
+        while i < n and s[i] == ' ':
             i += 1
 
-        # 2. Check for a sign exactly once (Safety check: make sure i is still in bounds!)
-        if i < len(s) and s[i] == "-":
+        # 2. Check sign
+        if i < n and s[i] == '-':
             sign = -1
             i += 1
-        elif i < len(s) and s[i] == "+":
+        elif i < n and s[i] == '+':
             i += 1
-        while i<len(s) and s[i].isdigit():
 
-            ls.append(s[i])
-            i+=1
-        
-        
-        if ls:
-            digit =int("".join(ls))
-            if sign:
-                digit =sign * (digit)
+        # 3. Convert digits iteratively without joining strings
+        while i < n and s[i].isdigit():
+            digit = ord(s[i]) - ord('0')
+            num = num * 10 + digit
+            i += 1
 
-            
-            if digit < -2**31:
-                return -2**31
-            if digit > 2**31 - 1:
-                return 2**31 -1
-            return digit
-        else:
-            return 0
+        # 4. Apply sign
+        num *= sign
+
+        # 5. Handle 32-bit signed integer overflow limits
+        INT_MIN, INT_MAX = -2**31, 2**31 - 1
+        if num < INT_MIN:
+            return INT_MIN
+        if num > INT_MAX:
+            return INT_MAX
+
+        return num
