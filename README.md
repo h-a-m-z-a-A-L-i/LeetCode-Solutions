@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
