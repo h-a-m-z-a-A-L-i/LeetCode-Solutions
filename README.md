@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
