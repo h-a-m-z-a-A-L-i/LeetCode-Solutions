@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
