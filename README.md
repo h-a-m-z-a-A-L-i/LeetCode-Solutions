@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
