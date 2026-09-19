@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0118-pascals-triangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
