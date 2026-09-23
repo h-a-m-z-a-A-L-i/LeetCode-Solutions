@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -276,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
