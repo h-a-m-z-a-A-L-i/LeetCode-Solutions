@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT DISTINCT 
     l1.num AS ConsecutiveNums
 FROM 
