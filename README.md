@@ -311,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
