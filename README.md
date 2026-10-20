@@ -324,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1070-product-sales-analysis-iii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
