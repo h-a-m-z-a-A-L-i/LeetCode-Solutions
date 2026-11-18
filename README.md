@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
@@ -305,9 +307,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
