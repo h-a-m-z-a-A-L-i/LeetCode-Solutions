@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
@@ -254,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
