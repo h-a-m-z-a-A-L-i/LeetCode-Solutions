@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
