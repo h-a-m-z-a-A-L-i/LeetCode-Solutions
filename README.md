@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
 ## Trie
 |  |
 | ------- |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
