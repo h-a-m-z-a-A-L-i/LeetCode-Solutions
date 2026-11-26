@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 ## Trie
 |  |
 | ------- |
