@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/h-a-m-z-a-A-L-i/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 ## Trie
 |  |
 | ------- |
